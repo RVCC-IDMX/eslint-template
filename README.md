@@ -1,1 +1,1 @@
-# template
+# ESLint Configuration
